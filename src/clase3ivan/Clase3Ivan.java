@@ -5,10 +5,14 @@
  */
 package clase3ivan;
 
-/**
- *
+/*************************************************************************
+ * Ivan Estrada Rios
  * @author sala306
- */
+ * Fecha: Octubre 26 de 2017
+ * Programa: Clase3Ivan
+ * Responsabilidad: Clase Principal
+ ***********************************************************************/
+
 public class Clase3Ivan {
 
     /**
